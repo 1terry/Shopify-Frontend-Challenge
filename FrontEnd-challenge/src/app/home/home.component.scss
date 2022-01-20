@@ -179,11 +179,13 @@ button{
     .card{
         margin-right: auto;
         margin-left: auto;
+        padding: 10px;
     }
 
     .body-background{
         height: 4800px;
         width: 100vw;
+        background-color: transparent;
     }
 
 }
